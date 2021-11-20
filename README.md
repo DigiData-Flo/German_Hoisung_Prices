@@ -11,3 +11,11 @@ This dataset is used for the analysis.
 
 # Collaboration
 Therefore it is a Udacity project, there is no collaboration needed.
+
+# Files
+The Campus_Data.ipynb handles the Data cleaning process
+In the Regression.ipynb I try dome regressions to fill missing values.
+Unfortunately this regressions are not used, because the $r^2" score shows me that
+only 40% of information was available to explain the values.
+The final data analysis is done in Clustering-Copy2.ipynb. The other files
+was just trial and error. 
