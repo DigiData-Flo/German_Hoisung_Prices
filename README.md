@@ -13,9 +13,12 @@ This dataset is used for the analysis.
 Therefore it is a Udacity project, there is no collaboration needed.
 
 # Files
-The Campus_Data.ipynb handles the Data cleaning process
+The DataAnalysisComplete.ipynb handles the the hole analysis from
+gathering - understanding - cleaning - modeling and evaluation.
+
+All other file in the repository are trial and error and not part of the
+Data analysis.
+
 In the Regression.ipynb I try dome regressions to fill missing values.
 Unfortunately this regressions are not used, because the $r^2" score shows me that
 only 40% of information was available to explain the values.
-The final data analysis is done in Clustering-Copy2.ipynb. The other files
-was just trial and error. 
