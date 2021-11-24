@@ -1,5 +1,9 @@
+![](Visualizations/rent_increase.png)
+
+
 # German_Apartment_Rental
 Udacity Data Scientist Nanodegree Project 1
+
 
 # Motivation
 I found this [record](https://www.kaggle.com/corrieaar/apartment-rental-offers-in-germany) from Corrie Bartelheimer on kaggle and I am really curious what information I can find out.
